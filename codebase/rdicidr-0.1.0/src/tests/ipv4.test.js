@@ -1,4 +1,5 @@
-import { IPv4 } from "../lib/ipv4";
+//import { IPv4 } from "../lib/ipv4";
+require { IPv4 } from "../lib/ipv4";
 
 test("network Address is calculated correctly", () => {
   // using 192.168.100.14/20 CIDR
