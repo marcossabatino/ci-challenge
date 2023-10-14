@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/marcossabatino/ci-challenge/issues"
   },
-  "homepage": "https://github.com/marcossabatino/ci-challenge#readme"
+  "homepage": "https://github.com/marcossabatino/ci-challenge#readme",
+  "devDependencies": {
+    "eslint": "^8.51.0",
+    "eslint-plugin-react": "^7.33.2"
+  }
 }
